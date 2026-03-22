@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skm1312
+- 👋 Hi, I’m Krishna
 - 👀 I’m interested in Java, Machine Learning, LLMs, and GenAI.
 - 🌱 I’m currently learning Go, LLMs, and building GenAI applications.
 - 💞️ I’m looking to collaborate on projects dealing with building LLMs and GenAI.
