@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skm1312
-- 👀 I’m interested in Java, Machine Learning, Spring, Python, and Django.
-- 🌱 I’m currently learning Spring boot, Flask, NLP, Neural Networks and MongoDB
-- 💞️ I’m looking to collaborate on projects dealing with Java, Spring and ANN.
+- 👀 I’m interested in Java, Machine Learning, LLMs, and GenAI.
+- 🌱 I’m currently learning Go, LLMs, and building GenAI applications.
+- 💞️ I’m looking to collaborate on projects dealing with building LLMs and GenAI.
 - 📫 How to reach me skm.1312@gmail.com
 
 <!---
